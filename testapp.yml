@@ -1,0 +1,9 @@
+spring:
+  env1:
+    value1: test11
+    value2: test12
+
+spring:
+  env2:
+    value1: test21
+    value2: test22
